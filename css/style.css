@@ -41,3 +41,7 @@ body{
 .ramka{
   border: 2px solid white;
 }
+
+.maptext{
+  font-size: 50px;
+}
