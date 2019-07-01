@@ -20,3 +20,20 @@ body{
 .cardmenu{
   padding-bottom: 40px;
 }
+
+.contacttext a{
+  color: white;
+  font-weight: bold;
+
+}
+
+.contacttext {
+  color: white;
+}
+
+.hrcont{
+  border-top: 2px solid #f0f0f0;
+  width: 45%;
+  margin-top: 0.3em;
+  margin-bottom: 1em;
+}
