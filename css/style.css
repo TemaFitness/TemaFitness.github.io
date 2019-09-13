@@ -12,9 +12,12 @@
     height: 100%;
   }
 }
+.mynavcol{
+  color: #0e5f4c;
+}
 
 body{
-  background-color: #dc3545;
+  background-color: #aa957a; /*#dc3545 */
 }
 
 .cardmenu{
