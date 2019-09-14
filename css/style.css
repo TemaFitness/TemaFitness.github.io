@@ -17,7 +17,8 @@
 }
 
 body{
-  background-color: #ffdab9; /*#dc3545 */
+  background-color: #f5f5f5; /*#dc3545 */
+
 }
 
 .cardmenu{
@@ -25,13 +26,13 @@ body{
 }
 
 .contacttext a{
-  color: white;
+  /*color: white;*/
   font-weight: bold;
 
 }
 
 .contacttext {
-  color: white;
+  /*color: white;*/
 }
 
 .hrcont{
