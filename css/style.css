@@ -6,10 +6,17 @@
 .navbar1{
   height: 50px;
 }
-
+.myadres{
+  font-size: 18px;
+}
 @media only screen and (max-width: 994px) {
   .navbar1{
     height: 100%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .myadres{
+    font-size: 15px;
   }
 }
 .mynavcol{
