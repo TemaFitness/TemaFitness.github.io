@@ -18,6 +18,7 @@
     height: 100%;
   }
 }
+*/
 @media only screen and (max-width: 600px) {
   .myadres{
     font-size: 15px;
@@ -70,23 +71,18 @@ body{
 
 
 
-
-html,
-body,
-header,
-.view {
-  height: 100%;
+.view2 {
+  height: 582px;
 }
-/*
+
+
 @media (max-width: 740px) {
-  html,
-  body,
-  header,
-  .view {
-    height: 100vh;
+
+  .view2 {
+    min-height: 100%;
   }
 }
-
+/*
 .top-nav-collapse {
   background-color: #78909c !important;
 }
@@ -101,11 +97,11 @@ header,
   }
 }
 */
-h1 {
+.mainh1 {
   letter-spacing: 8px;
 }
 
-h5 {
+.mainh5 {
   letter-spacing: 3px;
 }
 
