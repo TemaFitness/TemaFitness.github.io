@@ -69,12 +69,21 @@ body{
 }
 
 
+.space5{
+  margin-top: 60px;
+  }
 
 
 
 .space3{
   margin-top: 160px;
   }
+
+.space4{
+    margin-top: 160px;
+    margin-left: 60px;
+    color: white;
+    }
 .view2 {
   height: 582px;
 }
@@ -112,4 +121,23 @@ body{
 .hr-light {
   border-top: 3px solid #fff;
   width: 80px;
+}
+
+
+.map-container{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+.map-container iframe{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
+
+.blacksection{
+background-color: black;
 }
