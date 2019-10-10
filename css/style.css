@@ -94,6 +94,9 @@ body{
   .view2 {
     min-height: 100%;
   }
+  .space5{
+    font-size: 2px;
+  }
 }
 /*
 .top-nav-collapse {
