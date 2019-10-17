@@ -79,6 +79,12 @@ body{
   margin-top: 160px;
   }
 
+.space6{
+  margin-left: 40px;
+  color: white;
+  margin-top: 160px;
+}
+
 .space4{
     margin-top: 160px;
     margin-left: 60px;
@@ -144,11 +150,35 @@ position:absolute;
 .blacksection{
 background-color: black;
 }
+.whitesection{
+  background-color: white;
+}
 
 
 .timetableback{
   background-color: white;
 }
 .tabletext{
-  
+
+}
+
+
+.myphone{
+  width: 0.9em;
+}
+
+
+.mymail{
+  width: 1.1em;
+  padding-bottom: 5px;
+}
+
+.myvk{
+  width: 1.4em;
+}
+
+
+.myinsta{
+  width: 1.1em;
+
 }
