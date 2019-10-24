@@ -1,34 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Alegreya+Sans:900');
-body {
-  align-items: center;
-  display: flex;
-  height: 100vh;
-  justify-content: center;
-  font-family: sans-serif;
-  margin: 0;
-  background: #6D6027;
-  background: -webkit-linear-gradient(left, #D3CBB8, #6D6027);
-  background: -o-linear-gradient(left, #D3CBB8, #6D6027);
-  background: linear-gradient(to right, #D3CBB8, #6D6027);
-}
-@media (max-width: 767px) {
-  body {
-    display: block;
-  }
-}
+
 .card {
   background: white;
   border-radius: 8px;
   box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
   cursor: pointer;
-  height: 300px;
+  height: 350px;
   margin: 20px;
   padding: 0 20px;
   position: relative;
   -webkit-tap-highlight-color: rgba(0,0,0,0.025);
   text-align: center;
   transition: height 1000ms;
-  width: 260px;
+  width: 295px;
 }
 @media (max-width: 767px) {
   .card {
@@ -37,7 +21,7 @@ body {
   }
 }
 .card.expanded {
-  height: 350px;
+  height: 620px;
 }
 .label {
   margin-top: 30px;
@@ -87,7 +71,7 @@ body {
   font-family: 'Alegreya Sans', sans-serif;
   font-weight: 900;
   margin: 20px 0 12px;
-  padding-bottom: 20px
+  padding-bottom: 25px
 }
 .body-text {
   padding: 0 20px;
