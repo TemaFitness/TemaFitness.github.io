@@ -233,5 +233,12 @@ background-color: black;
 	.inform-change{
 		font-size: 20px;
 	}
+  .fitprog{
+    font-size: 16px;
+  }
 
+}
+.fitprog{
+  font-size: 45px;
+/*  font-weight: bold;*/
 }
