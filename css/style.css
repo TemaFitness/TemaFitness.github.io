@@ -242,3 +242,19 @@ background-color: black;
   font-size: 45px;
 /*  font-weight: bold;*/
 }
+
+
+@media (max-width: 767px) {
+  .timetable{
+    transform: scale(0.35) translateX(-91.5%) translateY(-91.5%);
+  }
+
+}
+
+
+/*
+.timetable2{
+  display: flex;
+  justify-content: left;
+  align-content: left;
+}
